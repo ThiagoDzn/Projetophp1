@@ -1,0 +1,9 @@
+{
+    "name": "admin/backend-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
